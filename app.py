@@ -9,7 +9,7 @@ model_data = joblib.load("healthcare_model.pkl")
 model = model_data["model"]
 feature_columns = model_data["feature_columns"]
 # Load trained ML model
-model_data = joblib.load("../healthcare_model.pkl")
+model_data = joblib.load("healthcare_model.pkl")
 
 model = model_data["model"]
 feature_columns = model_data["feature_columns"]
