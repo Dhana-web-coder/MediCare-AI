@@ -136,7 +136,7 @@ create_tables()
 
 def get_dataset():
 
-    data_folder = BASE_DIR.parent / "data"
+    data_folder = BASE_DIR / "data"
     dataset_file = data_folder / "Cleaned_Dataset.csv"
 
     if not dataset_file.exists():
