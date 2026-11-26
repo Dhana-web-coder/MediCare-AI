@@ -5,7 +5,7 @@ from pathlib import Path
 from datetime import date
 import joblib
 import pandas as pd
-model_data = joblib.load("../healthcare_model.pkl")
+model_data = joblib.load("healthcare_model.pkl")
 model = model_data["model"]
 feature_columns = model_data["feature_columns"]
 # Load trained ML model
