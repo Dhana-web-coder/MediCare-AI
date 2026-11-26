@@ -1,0 +1,350 @@
+﻿disease,fever,cough,fatigue,difficulty_breathing,age,gender,blood_pressure,cholesterol_level,outcome_variable,age_scaled,bp_scaled,chol_scaled,risk_level,patient_id,patient_name,doctor_name,department,visit_date
+Influenza,Yes,No,Yes,Yes,19,female,0,1,Positive,-2.091159685,-2.419529174,-0.576776779,Low,1001,arun kumar,Dr.arun,general medicine,01-11-2026
+Common Cold,No,Yes,Yes,No,25,female,1,1,Negative,-1.631964176,-0.723915355,-0.576776779,Low,1002,priya,Dr.priya,cardiology,02-11-2026
+Eczema,No,Yes,Yes,No,25,female,1,1,Negative,-1.631964176,-0.723915355,-0.576776779,Medium,1003,rahul,Dr.meena,dermatology,03-11-2026
+Asthma,Yes,Yes,No,Yes,25,male,1,1,Positive,-1.631964176,-0.723915355,-0.576776779,Medium,1004,meena,Dr.kumar,neurology,04-11-2026
+Asthma,Yes,Yes,No,Yes,25,male,1,1,Positive,-1.631964176,-0.723915355,-0.576776779,Medium,1005,karthik,Dr.suresh,padiatrics,05-11-2026
+Eczema,Yes,No,No,No,25,female,1,1,Positive,-1.631964176,-0.723915355,-0.576776779,Medium,1006,divya,Dr.arun,orthopedics,06-11-2026
+Influenza,Yes,Yes,Yes,Yes,25,female,1,1,Positive,-1.631964176,-0.723915355,-0.576776779,Low,1007,naveen,Dr.priya,general medicine,07-11-2026
+Influenza,Yes,Yes,Yes,Yes,25,female,1,1,Positive,-1.631964176,-0.723915355,-0.576776779,Low,1008,anitha,Dr.meena,carddiology,08-11-2026
+Hyperthyroidism,No,Yes,No,No,28,female,1,1,Negative,-1.402366421,-0.723915355,-0.576776779,Medium,1009,suresh,Dr.kumar,dermatology,09-11-2026
+Hyperthyroidism,No,Yes,No,No,28,female,1,1,Negative,-1.402366421,-0.723915355,-0.576776779,Medium,1010,kavya,Dr.suresh,padiatrics,10-11-2026
+Asthma,Yes,No,No,Yes,28,male,2,1,Positive,-1.402366421,0.971698463,-0.576776779,Medium,1011,arun kumar,Dr.arun,general medicine,11-11-2026
+Allergic Rhinitis,No,Yes,Yes,No,29,female,1,0,Negative,-1.325833836,-0.723915355,-2.101739626,Low,1012,priya,Dr.priya,cardiology,12-11-2026
+Anxiety Disorders,No,Yes,No,No,29,female,1,2,Negative,-1.325833836,-0.723915355,0.948186068,Medium,1013,rahul,Dr.meena,dermatology,13-11-2026
+Common Cold,No,No,No,No,29,female,0,1,Negative,-1.325833836,-2.419529174,-0.576776779,Low,1014,meena,Dr.kumar,neurology,14-11-2026
+Diabetes,No,No,No,No,29,male,0,1,Negative,-1.325833836,-2.419529174,-0.576776779,Medium,1015,karthik,Dr.suresh,padiatrics,15-11-2026
+Gastroenteritis,No,Yes,No,No,29,female,1,1,Negative,-1.325833836,-0.723915355,-0.576776779,Medium,1016,divya,Dr.arun,orthopedics,16-11-2026
+Pancreatitis,Yes,No,No,No,29,female,2,1,Negative,-1.325833836,0.971698463,-0.576776779,High,1017,naveen,Dr.priya,general medicine,17-11-2026
+Rheumatoid Arthritis,No,Yes,Yes,Yes,29,female,2,2,Negative,-1.325833836,0.971698463,0.948186068,Medium,1018,anitha,Dr.meena,carddiology,18-11-2026
+Depression,Yes,Yes,Yes,Yes,29,male,2,1,Positive,-1.325833836,0.971698463,-0.576776779,Medium,1019,suresh,Dr.kumar,dermatology,19-11-2026
+Liver Cancer,Yes,Yes,Yes,Yes,29,female,1,1,Positive,-1.325833836,-0.723915355,-0.576776779,High,1020,kavya,Dr.suresh,padiatrics,20-11-2026
+Stroke,Yes,Yes,Yes,Yes,29,female,1,1,Positive,-1.325833836,-0.723915355,-0.576776779,High,1021,arun kumar,Dr.arun,general medicine,21-11-2026
+Urinary Tract Infection,Yes,Yes,Yes,No,29,male,2,2,Positive,-1.325833836,0.971698463,0.948186068,Low,1022,priya,Dr.priya,cardiology,22-11-2026
+Dengue Fever,Yes,No,Yes,No,30,female,1,1,Negative,-1.249301251,-0.723915355,-0.576776779,Low,1023,rahul,Dr.meena,dermatology,23-11-2026
+Dengue Fever,Yes,No,Yes,No,30,female,1,1,Negative,-1.249301251,-0.723915355,-0.576776779,Low,1024,meena,Dr.kumar,neurology,24-11-2026
+Eczema,No,Yes,Yes,No,30,male,2,2,Negative,-1.249301251,0.971698463,0.948186068,Medium,1025,karthik,Dr.suresh,padiatrics,25-11-2026
+Gastroenteritis,Yes,Yes,Yes,No,30,male,2,2,Negative,-1.249301251,0.971698463,0.948186068,Medium,1026,divya,Dr.arun,orthopedics,26-11-2026
+Hepatitis,Yes,Yes,Yes,Yes,30,male,2,1,Negative,-1.249301251,0.971698463,-0.576776779,Medium,1027,naveen,Dr.priya,general medicine,27-11-2026
+Kidney Cancer,No,No,Yes,No,30,male,1,1,Negative,-1.249301251,-0.723915355,-0.576776779,High,1028,anitha,Dr.meena,carddiology,28-11-2026
+Migraine,Yes,No,No,No,30,female,1,1,Negative,-1.249301251,-0.723915355,-0.576776779,Medium,1029,suresh,Dr.kumar,dermatology,29-11-2026
+Migraine,No,Yes,Yes,No,30,female,1,1,Negative,-1.249301251,-0.723915355,-0.576776779,Medium,1030,kavya,Dr.suresh,padiatrics,30-11-2026
+Muscular Dystrophy,No,No,Yes,No,30,male,2,2,Negative,-1.249301251,0.971698463,0.948186068,Medium,1031,arun kumar,Dr.arun,general medicine,01-12-2026
+Sinusitis,No,Yes,Yes,No,30,male,1,1,Negative,-1.249301251,-0.723915355,-0.576776779,Low,1032,priya,Dr.priya,cardiology,02-12-2026
+Ulcerative Colitis,Yes,Yes,No,No,30,female,1,1,Negative,-1.249301251,-0.723915355,-0.576776779,Medium,1033,rahul,Dr.meena,dermatology,03-12-2026
+Ulcerative Colitis,No,Yes,Yes,No,30,female,1,1,Negative,-1.249301251,-0.723915355,-0.576776779,Medium,1034,meena,Dr.kumar,neurology,04-12-2026
+Asthma,Yes,Yes,No,Yes,30,female,1,1,Positive,-1.249301251,-0.723915355,-0.576776779,Medium,1035,karthik,Dr.suresh,padiatrics,05-12-2026
+Asthma,Yes,Yes,No,Yes,30,female,1,1,Positive,-1.249301251,-0.723915355,-0.576776779,Medium,1036,divya,Dr.arun,orthopedics,06-12-2026
+Asthma,Yes,Yes,Yes,Yes,30,female,1,1,Positive,-1.249301251,-0.723915355,-0.576776779,Medium,1037,naveen,Dr.priya,general medicine,07-12-2026
+Bipolar Disorder,No,No,Yes,No,30,female,2,2,Positive,-1.249301251,0.971698463,0.948186068,Medium,1038,anitha,Dr.meena,carddiology,08-12-2026
+Bronchitis,Yes,Yes,No,Yes,30,female,0,1,Positive,-1.249301251,-2.419529174,-0.576776779,Low,1039,suresh,Dr.kumar,dermatology,09-12-2026
+Bronchitis,Yes,Yes,Yes,Yes,30,male,2,2,Positive,-1.249301251,0.971698463,0.948186068,Low,1040,kavya,Dr.suresh,padiatrics,10-12-2026
+Bronchitis,Yes,Yes,Yes,Yes,30,male,2,2,Positive,-1.249301251,0.971698463,0.948186068,Low,1041,arun kumar,Dr.arun,general medicine,11-12-2026
+Cerebral Palsy,No,No,Yes,Yes,30,female,1,1,Positive,-1.249301251,-0.723915355,-0.576776779,Medium,1042,priya,Dr.priya,cardiology,12-12-2026
+Colorectal Cancer,No,No,Yes,No,30,female,1,2,Positive,-1.249301251,-0.723915355,0.948186068,High,1043,rahul,Dr.meena,dermatology,13-12-2026
+Eczema,Yes,No,No,No,30,male,2,2,Positive,-1.249301251,0.971698463,0.948186068,Medium,1044,meena,Dr.kumar,neurology,14-12-2026
+Hypertensive Heart Disease,No,No,Yes,No,30,female,2,2,Positive,-1.249301251,0.971698463,0.948186068,Medium,1045,karthik,Dr.suresh,padiatrics,15-12-2026
+Influenza,Yes,Yes,Yes,No,30,male,2,1,Positive,-1.249301251,0.971698463,-0.576776779,Low,1046,divya,Dr.arun,orthopedics,16-12-2026
+Influenza,Yes,Yes,Yes,Yes,30,female,1,1,Positive,-1.249301251,-0.723915355,-0.576776779,Low,1047,naveen,Dr.priya,general medicine,17-12-2026
+Multiple Sclerosis,No,No,Yes,No,30,female,2,2,Positive,-1.249301251,0.971698463,0.948186068,Medium,1048,anitha,Dr.meena,carddiology,18-12-2026
+Myocardial Infarction (Heart...,Yes,Yes,Yes,Yes,30,female,2,2,Positive,-1.249301251,0.971698463,0.948186068,Medium,1049,suresh,Dr.kumar,dermatology,19-12-2026
+Urinary Tract Infection (UTI),Yes,No,No,No,30,female,1,1,Positive,-1.249301251,-0.723915355,-0.576776779,Medium,1050,kavya,Dr.suresh,padiatrics,20-12-2026
+Asthma,No,No,No,Yes,31,male,1,0,Negative,-1.172768666,-0.723915355,-2.101739626,Medium,1051,arun kumar,Dr.arun,general medicine,21-12-2026
+Osteoporosis,No,No,No,Yes,31,male,0,1,Negative,-1.172768666,-2.419529174,-0.576776779,Medium,1052,priya,Dr.priya,cardiology,22-12-2026
+Common Cold,Yes,No,Yes,Yes,31,male,2,2,Positive,-1.172768666,0.971698463,0.948186068,Low,1053,rahul,Dr.meena,dermatology,23-12-2026
+Migraine,Yes,No,No,No,31,female,1,1,Positive,-1.172768666,-0.723915355,-0.576776779,Medium,1054,meena,Dr.kumar,neurology,24-12-2026
+Pneumonia,Yes,No,Yes,Yes,32,female,2,1,Positive,-1.096236081,0.971698463,-0.576776779,Low,1055,karthik,Dr.suresh,padiatrics,25-12-2026
+Allergic Rhinitis,No,No,Yes,No,35,female,1,0,Negative,-0.866638326,-0.723915355,-2.101739626,Low,1056,divya,Dr.arun,orthopedics,26-12-2026
+Asthma,No,Yes,Yes,Yes,35,female,1,2,Negative,-0.866638326,-0.723915355,0.948186068,Medium,1057,naveen,Dr.priya,general medicine,27-12-2026
+Asthma,Yes,Yes,Yes,Yes,35,female,1,1,Negative,-0.866638326,-0.723915355,-0.576776779,Medium,1058,anitha,Dr.meena,carddiology,28-12-2026
+Asthma,No,Yes,Yes,Yes,35,female,2,1,Negative,-0.866638326,0.971698463,-0.576776779,Medium,1059,suresh,Dr.kumar,dermatology,29-12-2026
+Asthma,No,Yes,Yes,Yes,35,female,2,1,Negative,-0.866638326,0.971698463,-0.576776779,Medium,1060,kavya,Dr.suresh,padiatrics,30-12-2026
+Atherosclerosis,No,No,Yes,No,35,male,1,1,Negative,-0.866638326,-0.723915355,-0.576776779,Medium,1061,arun kumar,Dr.arun,general medicine,31-12-2026
+Chronic Obstructive Pulmonary...,Yes,Yes,Yes,Yes,35,male,1,1,Negative,-0.866638326,-0.723915355,-0.576776779,Medium,1062,priya,Dr.priya,cardiology,01-01-2027
+Common Cold,Yes,Yes,Yes,No,35,male,2,1,Negative,-0.866638326,0.971698463,-0.576776779,Low,1063,rahul,Dr.meena,dermatology,02-01-2027
+Eczema,No,Yes,No,No,35,male,2,1,Negative,-0.866638326,0.971698463,-0.576776779,Medium,1064,meena,Dr.kumar,neurology,03-01-2027
+Epilepsy,No,No,Yes,No,35,male,2,2,Negative,-0.866638326,0.971698463,0.948186068,Medium,1065,karthik,Dr.suresh,padiatrics,04-01-2027
+Hypertension,Yes,Yes,Yes,No,35,female,2,1,Negative,-0.866638326,0.971698463,-0.576776779,Medium,1066,divya,Dr.arun,orthopedics,05-01-2027
+Hyperthyroidism,Yes,Yes,Yes,No,35,female,1,1,Negative,-0.866638326,-0.723915355,-0.576776779,Medium,1067,naveen,Dr.priya,general medicine,06-01-2027
+Obsessive-Compulsive Disorde...,No,No,Yes,No,35,male,1,1,Negative,-0.866638326,-0.723915355,-0.576776779,Medium,1068,anitha,Dr.meena,carddiology,07-01-2027
+Pneumonia,Yes,Yes,Yes,Yes,35,female,1,1,Negative,-0.866638326,-0.723915355,-0.576776779,Low,1069,suresh,Dr.kumar,dermatology,08-01-2027
+Pneumonia,Yes,Yes,Yes,Yes,35,female,1,1,Negative,-0.866638326,-0.723915355,-0.576776779,Low,1070,kavya,Dr.suresh,padiatrics,09-01-2027
+Psoriasis,Yes,No,No,No,35,female,1,0,Negative,-0.866638326,-0.723915355,-2.101739626,Medium,1071,arun kumar,Dr.arun,general medicine,10-01-2027
+Psoriasis,No,Yes,Yes,No,35,female,1,0,Negative,-0.866638326,-0.723915355,-2.101739626,Medium,1072,priya,Dr.priya,cardiology,11-01-2027
+Rubella,Yes,No,Yes,No,35,female,2,1,Negative,-0.866638326,0.971698463,-0.576776779,Low,1073,rahul,Dr.meena,dermatology,12-01-2027
+Rubella,Yes,No,Yes,No,35,female,2,1,Negative,-0.866638326,0.971698463,-0.576776779,Low,1074,meena,Dr.kumar,neurology,13-01-2027
+Urinary Tract Infection (UTI),No,Yes,Yes,No,35,male,2,2,Negative,-0.866638326,0.971698463,0.948186068,Medium,1075,karthik,Dr.suresh,padiatrics,14-01-2027
+Asthma,Yes,Yes,No,Yes,35,male,1,1,Positive,-0.866638326,-0.723915355,-0.576776779,Medium,1076,divya,Dr.arun,orthopedics,15-01-2027
+Asthma,Yes,Yes,No,Yes,35,male,1,1,Positive,-0.866638326,-0.723915355,-0.576776779,Medium,1077,naveen,Dr.priya,general medicine,16-01-2027
+Cirrhosis,No,No,Yes,No,35,female,1,2,Positive,-0.866638326,-0.723915355,0.948186068,High,1078,anitha,Dr.meena,carddiology,17-01-2027
+Conjunctivitis (Pink Eye),No,Yes,No,No,35,female,2,2,Positive,-0.866638326,0.971698463,0.948186068,Low,1079,arun kumar,Dr.kumar,dermatology,18-01-2027
+Depression,No,No,Yes,No,35,female,1,2,Positive,-0.866638326,-0.723915355,0.948186068,Medium,1080,priya,Dr.suresh,padiatrics,19-01-2027
+Gastroenteritis,Yes,No,Yes,Yes,35,male,0,2,Positive,-0.866638326,-2.419529174,0.948186068,Medium,1081,rahul,Dr.arun,general medicine,20-01-2027
+Hyperthyroidism,Yes,Yes,Yes,No,35,male,2,2,Positive,-0.866638326,0.971698463,0.948186068,Medium,1082,meena,Dr.priya,cardiology,21-01-2027
+Hyperthyroidism,Yes,Yes,Yes,No,35,male,2,2,Positive,-0.866638326,0.971698463,0.948186068,Medium,1083,karthik,Dr.meena,dermatology,22-01-2027
+Kidney Cancer,No,No,Yes,No,35,male,2,2,Positive,-0.866638326,0.971698463,0.948186068,High,1084,divya,Dr.kumar,neurology,23-01-2027
+Liver Cancer,No,No,Yes,No,35,female,2,2,Positive,-0.866638326,0.971698463,0.948186068,High,1085,naveen,Dr.suresh,padiatrics,24-01-2027
+Liver Disease,No,No,Yes,No,35,male,2,2,Positive,-0.866638326,0.971698463,0.948186068,High,1086,anitha,Dr.arun,orthopedics,25-01-2027
+Malaria,Yes,No,No,No,35,male,2,2,Positive,-0.866638326,0.971698463,0.948186068,Medium,1087,suresh,Dr.priya,general medicine,26-01-2027
+Malaria,Yes,No,No,No,35,male,2,2,Positive,-0.866638326,0.971698463,0.948186068,Medium,1088,kavya,Dr.meena,carddiology,27-01-2027
+Migraine,No,Yes,Yes,No,35,male,2,2,Positive,-0.866638326,0.971698463,0.948186068,Medium,1089,arun kumar,Dr.kumar,dermatology,28-01-2027
+Migraine,Yes,No,No,No,35,male,2,2,Positive,-0.866638326,0.971698463,0.948186068,Medium,1090,priya,Dr.suresh,padiatrics,29-01-2027
+Pancreatitis,No,No,Yes,No,35,male,1,2,Positive,-0.866638326,-0.723915355,0.948186068,High,1091,rahul,Dr.arun,general medicine,30-01-2027
+Rheumatoid Arthritis,Yes,Yes,Yes,No,35,male,1,0,Positive,-0.866638326,-0.723915355,-2.101739626,Medium,1092,meena,Dr.priya,cardiology,31-01-2027
+Rheumatoid Arthritis,No,No,Yes,No,35,female,1,0,Positive,-0.866638326,-0.723915355,-2.101739626,Medium,1093,karthik,Dr.meena,dermatology,01-02-2027
+Spina Bifida,No,No,Yes,No,35,female,1,1,Positive,-0.866638326,-0.723915355,-0.576776779,High,1094,divya,Dr.kumar,neurology,02-02-2027
+Ulcerative Colitis,No,No,Yes,No,35,male,2,2,Positive,-0.866638326,0.971698463,0.948186068,Medium,1095,naveen,Dr.suresh,padiatrics,03-02-2027
+Ulcerative Colitis,Yes,No,No,No,35,male,2,2,Positive,-0.866638326,0.971698463,0.948186068,Medium,1096,anitha,Dr.arun,orthopedics,04-02-2027
+Urinary Tract Infection,Yes,No,Yes,No,35,female,1,2,Positive,-0.866638326,-0.723915355,0.948186068,Low,1097,suresh,Dr.priya,general medicine,05-02-2027
+Allergic Rhinitis,No,Yes,No,No,38,female,0,1,Negative,-0.637040571,-2.419529174,-0.576776779,Low,1098,kavya,Dr.meena,carddiology,06-02-2027
+Depression,No,No,No,No,38,female,1,2,Negative,-0.637040571,-0.723915355,0.948186068,Medium,1099,arun kumar,Dr.kumar,dermatology,07-02-2027
+Gastroenteritis,No,No,No,No,38,male,1,0,Negative,-0.637040571,-0.723915355,-2.101739626,Medium,1100,priya,Dr.suresh,padiatrics,08-02-2027
+Influenza,No,No,No,No,38,male,1,1,Negative,-0.637040571,-0.723915355,-0.576776779,Low,1101,rahul,Dr.arun,general medicine,09-02-2027
+Kidney Disease,No,No,Yes,No,38,female,0,1,Negative,-0.637040571,-2.419529174,-0.576776779,High,1102,meena,Dr.priya,cardiology,10-02-2027
+Liver Cancer,Yes,Yes,No,No,38,female,2,1,Negative,-0.637040571,0.971698463,-0.576776779,High,1103,karthik,Dr.meena,dermatology,11-02-2027
+Liver Disease,No,Yes,No,Yes,38,male,0,1,Negative,-0.637040571,-2.419529174,-0.576776779,High,1104,divya,Dr.kumar,neurology,12-02-2027
+Osteoporosis,No,Yes,No,No,38,female,1,2,Negative,-0.637040571,-0.723915355,0.948186068,Medium,1105,naveen,Dr.suresh,padiatrics,13-02-2027
+Stroke,Yes,Yes,No,No,38,female,2,1,Negative,-0.637040571,0.971698463,-0.576776779,High,1106,anitha,Dr.arun,orthopedics,14-02-2027
+Anxiety Disorders,Yes,No,Yes,Yes,38,male,2,2,Positive,-0.637040571,0.971698463,0.948186068,Medium,1107,suresh,Dr.priya,general medicine,15-02-2027
+Diabetes,Yes,No,Yes,Yes,38,male,2,0,Positive,-0.637040571,0.971698463,-2.101739626,Medium,1108,kavya,Dr.meena,general medicine,16-02-2027
+Migraine,Yes,Yes,No,No,38,male,2,2,Positive,-0.637040571,0.971698463,0.948186068,Medium,1109,arun kumar,Dr.kumar,cardiology,17-02-2027
+Osteoarthritis,Yes,Yes,Yes,No,38,male,2,2,Positive,-0.637040571,0.971698463,0.948186068,Medium,1110,priya,Dr.suresh,dermatology,18-02-2027
+Pneumonia,Yes,Yes,Yes,Yes,38,male,1,1,Positive,-0.637040571,-0.723915355,-0.576776779,Low,1111,rahul,Dr.arun,neurology,19-02-2027
+Klinefelter Syndrome,No,No,Yes,No,39,female,1,1,Positive,-0.560507986,-0.723915355,-0.576776779,Medium,1112,meena,Dr.priya,padiatrics,20-02-2027
+Acne,No,No,Yes,No,40,male,1,1,Negative,-0.483975401,-0.723915355,-0.576776779,Low,1113,karthik,Dr.meena,orthopedics,21-02-2027
+Brain Tumor,No,No,Yes,No,40,male,1,1,Negative,-0.483975401,-0.723915355,-0.576776779,High,1114,divya,Dr.kumar,general medicine,22-02-2027
+Bronchitis,No,Yes,No,Yes,40,female,1,1,Negative,-0.483975401,-0.723915355,-0.576776779,Low,1115,naveen,Dr.suresh,general medicine,23-02-2027
+Cystic Fibrosis,No,No,Yes,Yes,40,male,2,2,Negative,-0.483975401,0.971698463,0.948186068,Medium,1116,anitha,Dr.arun,cardiology,24-02-2027
+Diabetes,Yes,No,No,No,40,female,2,2,Negative,-0.483975401,0.971698463,0.948186068,Medium,1117,suresh,Dr.priya,dermatology,25-02-2027
+Glaucoma,No,No,Yes,No,40,male,2,1,Negative,-0.483975401,0.971698463,-0.576776779,Medium,1118,kavya,Dr.meena,neurology,26-02-2027
+Osteoarthritis,No,No,Yes,No,40,male,2,1,Negative,-0.483975401,0.971698463,-0.576776779,Medium,1119,arun kumar,Dr.kumar,padiatrics,27-02-2027
+Rabies,Yes,Yes,No,No,40,female,2,1,Negative,-0.483975401,0.971698463,-0.576776779,High,1120,priya,Dr.suresh,orthopedics,28-02-2027
+Rabies,Yes,Yes,No,No,40,female,2,1,Negative,-0.483975401,0.971698463,-0.576776779,High,1121,rahul,Dr.arun,general medicine,01-03-2027
+Asthma,Yes,No,Yes,No,40,male,0,1,Positive,-0.483975401,-2.419529174,-0.576776779,Medium,1122,meena,Dr.priya,general medicine,02-03-2027
+Asthma,Yes,Yes,No,Yes,40,female,1,1,Positive,-0.483975401,-0.723915355,-0.576776779,Medium,1123,karthik,Dr.meena,cardiology,03-03-2027
+Asthma,Yes,Yes,No,Yes,40,female,1,1,Positive,-0.483975401,-0.723915355,-0.576776779,Medium,1124,divya,Dr.kumar,dermatology,04-03-2027
+Asthma,No,No,Yes,Yes,40,male,2,2,Positive,-0.483975401,0.971698463,0.948186068,Medium,1125,naveen,Dr.suresh,neurology,05-03-2027
+Asthma,Yes,No,Yes,Yes,40,male,1,2,Positive,-0.483975401,-0.723915355,0.948186068,Medium,1126,anitha,Dr.arun,padiatrics,06-03-2027
+Asthma,Yes,No,Yes,Yes,40,male,1,2,Positive,-0.483975401,-0.723915355,0.948186068,Medium,1127,suresh,Dr.priya,orthopedics,07-03-2027
+Chickenpox,No,Yes,No,No,40,male,1,2,Positive,-0.483975401,-0.723915355,0.948186068,Low,1128,kavya,Dr.meena,general medicine,08-03-2027
+Chickenpox,No,Yes,No,No,40,male,1,2,Positive,-0.483975401,-0.723915355,0.948186068,Low,1129,arun kumar,Dr.kumar,general medicine,09-03-2027
+Coronary Artery Disease,No,No,Yes,No,40,female,2,2,Positive,-0.483975401,0.971698463,0.948186068,High,1130,priya,Dr.suresh,cardiology,10-03-2027
+Eating Disorders (Anorexia,No,No,Yes,No,40,female,2,2,Positive,-0.483975401,0.971698463,0.948186068,Medium,1131,rahul,Dr.arun,dermatology,11-03-2027
+Fibromyalgia,No,No,Yes,No,40,female,2,2,Positive,-0.483975401,0.971698463,0.948186068,Medium,1132,meena,Dr.priya,neurology,12-03-2027
+Gastroenteritis,Yes,Yes,Yes,No,40,male,2,2,Positive,-0.483975401,0.971698463,0.948186068,Medium,1133,karthik,Dr.meena,padiatrics,13-03-2027
+Hemophilia,No,No,Yes,No,40,female,1,1,Positive,-0.483975401,-0.723915355,-0.576776779,High,1134,divya,Dr.kumar,orthopedics,14-03-2027
+Hyperthyroidism,No,No,Yes,No,40,male,2,2,Positive,-0.483975401,0.971698463,0.948186068,Medium,1135,naveen,Dr.suresh,general medicine,15-03-2027
+Hypoglycemia,No,No,Yes,No,40,female,2,2,Positive,-0.483975401,0.971698463,0.948186068,Medium,1136,anitha,Dr.arun,general medicine,16-03-2027
+Lymphoma,No,Yes,No,No,40,female,1,2,Positive,-0.483975401,-0.723915355,0.948186068,High,1137,suresh,Dr.priya,cardiology,17-03-2027
+Pneumonia,Yes,Yes,Yes,Yes,40,female,1,2,Positive,-0.483975401,-0.723915355,0.948186068,Low,1138,kavya,Dr.meena,dermatology,18-03-2027
+Psoriasis,No,Yes,Yes,No,40,male,2,1,Positive,-0.483975401,0.971698463,-0.576776779,Medium,1139,arun kumar,Dr.kumar,neurology,19-03-2027
+Psoriasis,Yes,No,No,No,40,male,2,1,Positive,-0.483975401,0.971698463,-0.576776779,Medium,1140,priya,Dr.suresh,padiatrics,20-03-2027
+Psoriasis,No,Yes,No,No,40,female,1,2,Positive,-0.483975401,-0.723915355,0.948186068,Medium,1141,rahul,Dr.arun,orthopedics,21-03-2027
+Tuberculosis,Yes,Yes,Yes,Yes,40,male,2,2,Positive,-0.483975401,0.971698463,0.948186068,Medium,1142,meena,Dr.priya,general medicine,22-03-2027
+Tuberculosis,Yes,Yes,Yes,Yes,40,male,2,2,Positive,-0.483975401,0.971698463,0.948186068,Medium,1143,karthik,Dr.meena,general medicine,23-03-2027
+Anxiety Disorders,No,No,No,No,42,male,0,1,Negative,-0.330910231,-2.419529174,-0.576776779,Medium,1144,divya,Dr.kumar,cardiology,24-03-2027
+Common Cold,Yes,Yes,No,No,42,female,2,2,Negative,-0.330910231,0.971698463,0.948186068,Low,1145,naveen,Dr.suresh,dermatology,25-03-2027
+Depression,Yes,No,No,Yes,42,male,2,1,Negative,-0.330910231,0.971698463,-0.576776779,Medium,1146,anitha,Dr.arun,neurology,26-03-2027
+Influenza,No,Yes,No,No,42,female,1,2,Negative,-0.330910231,-0.723915355,0.948186068,Low,1147,suresh,Dr.priya,padiatrics,27-03-2027
+Kidney Cancer,Yes,No,No,No,42,female,1,1,Negative,-0.330910231,-0.723915355,-0.576776779,High,1148,kavya,Dr.meena,orthopedics,28-03-2027
+Liver Cancer,Yes,No,Yes,Yes,42,male,1,0,Negative,-0.330910231,-0.723915355,-2.101739626,High,1149,arun kumar,Dr.kumar,general medicine,29-03-2027
+Liver Disease,Yes,No,No,Yes,42,female,1,1,Negative,-0.330910231,-0.723915355,-0.576776779,High,1150,priya,Dr.suresh,general medicine,30-03-2027
+Lung Cancer,Yes,No,Yes,Yes,42,male,1,0,Negative,-0.330910231,-0.723915355,-2.101739626,High,1151,rahul,Dr.arun,cardiology,31-03-2027
+Migraine,Yes,Yes,Yes,No,42,male,2,2,Negative,-0.330910231,0.971698463,0.948186068,Medium,1152,meena,Dr.priya,dermatology,01-04-2027
+Osteoarthritis,No,No,Yes,No,42,male,1,0,Negative,-0.330910231,-0.723915355,-2.101739626,Medium,1153,karthik,Dr.meena,neurology,02-04-2027
+Stroke,Yes,No,Yes,No,42,male,1,0,Negative,-0.330910231,-0.723915355,-2.101739626,High,1154,divya,Dr.kumar,padiatrics,03-04-2027
+Urinary Tract Infection,No,Yes,Yes,Yes,42,female,1,0,Negative,-0.330910231,-0.723915355,-2.101739626,Low,1155,naveen,Dr.suresh,orthopedics,04-04-2027
+Diabetes,Yes,Yes,Yes,No,42,male,2,1,Positive,-0.330910231,0.971698463,-0.576776779,Medium,1156,anitha,Dr.arun,general medicine,05-04-2027
+Hypothyroidism,Yes,Yes,Yes,No,42,female,2,2,Positive,-0.330910231,0.971698463,0.948186068,Medium,1157,arun kumar,Dr.priya,general medicine,06-04-2027
+Hypothyroidism,Yes,Yes,Yes,No,42,female,2,2,Positive,-0.330910231,0.971698463,0.948186068,Medium,1158,priya,Dr.meena,cardiology,07-04-2027
+Kidney Disease,Yes,No,Yes,No,42,female,2,0,Positive,-0.330910231,0.971698463,-2.101739626,High,1159,rahul,Dr.kumar,dermatology,08-04-2027
+Pneumonia,No,Yes,Yes,Yes,43,female,2,1,Positive,-0.254377646,0.971698463,-0.576776779,Low,1160,meena,Dr.suresh,neurology,09-04-2027
+Allergic Rhinitis,No,Yes,Yes,No,45,male,2,1,Negative,-0.101312476,0.971698463,-0.576776779,Low,1161,karthik,Dr.arun,padiatrics,10-04-2027
+Autism Spectrum Disorder (ASD),No,No,Yes,No,45,male,1,1,Negative,-0.101312476,-0.723915355,-0.576776779,Medium,1162,divya,Dr.priya,orthopedics,11-04-2027
+Crohn's Disease,Yes,No,Yes,No,45,male,2,1,Negative,-0.101312476,0.971698463,-0.576776779,Medium,1163,naveen,Dr.meena,general medicine,12-04-2027
+Hepatitis,Yes,No,Yes,No,45,female,2,2,Negative,-0.101312476,0.971698463,0.948186068,Medium,1164,anitha,Dr.kumar,general medicine,13-04-2027
+Hepatitis,Yes,No,Yes,No,45,female,2,2,Negative,-0.101312476,0.971698463,0.948186068,Medium,1165,suresh,Dr.suresh,cardiology,14-04-2027
+Hyperglycemia,No,No,Yes,No,45,male,1,1,Negative,-0.101312476,-0.723915355,-0.576776779,Medium,1166,kavya,Dr.arun,dermatology,15-04-2027
+Kidney Cancer,No,Yes,Yes,Yes,45,male,1,0,Negative,-0.101312476,-0.723915355,-2.101739626,High,1167,arun kumar,Dr.priya,neurology,16-04-2027
+Kidney Disease,Yes,Yes,No,No,45,male,1,2,Negative,-0.101312476,-0.723915355,0.948186068,High,1168,priya,Dr.meena,padiatrics,17-04-2027
+Melanoma,Yes,No,Yes,No,45,male,2,1,Negative,-0.101312476,0.971698463,-0.576776779,High,1169,rahul,Dr.kumar,orthopedics,18-04-2027
+Migraine,No,No,No,No,45,female,0,1,Negative,-0.101312476,-2.419529174,-0.576776779,Medium,1170,meena,Dr.suresh,general medicine,19-04-2027
+Ovarian Cancer,No,No,Yes,No,45,male,1,1,Negative,-0.101312476,-0.723915355,-0.576776779,High,1171,karthik,Dr.arun,general medicine,20-04-2027
+Pancreatitis,No,Yes,Yes,Yes,45,male,1,0,Negative,-0.101312476,-0.723915355,-2.101739626,High,1172,divya,Dr.priya,cardiology,21-04-2027
+Rheumatoid Arthritis,Yes,No,No,No,45,male,1,1,Negative,-0.101312476,-0.723915355,-0.576776779,Medium,1173,naveen,Dr.meena,dermatology,22-04-2027
+Stroke,No,No,Yes,No,45,male,1,1,Negative,-0.101312476,-0.723915355,-0.576776779,High,1174,anitha,Dr.kumar,neurology,23-04-2027
+Turner Syndrome,No,No,Yes,No,45,male,2,2,Negative,-0.101312476,0.971698463,0.948186068,Medium,1175,suresh,Dr.suresh,padiatrics,24-04-2027
+Turner Syndrome,No,No,Yes,No,45,male,2,2,Negative,-0.101312476,0.971698463,0.948186068,Medium,1176,kavya,Dr.arun,orthopedics,25-04-2027
+Urinary Tract Infection,No,No,No,No,45,female,0,1,Negative,-0.101312476,-2.419529174,-0.576776779,Low,1177,arun kumar,Dr.priya,general medicine,26-04-2027
+Zika Virus,No,Yes,Yes,No,45,female,2,2,Negative,-0.101312476,0.971698463,0.948186068,Low,1178,priya,Dr.meena,general medicine,27-04-2027
+Zika Virus,No,Yes,Yes,No,45,female,2,2,Negative,-0.101312476,0.971698463,0.948186068,Low,1179,rahul,Dr.kumar,cardiology,28-04-2027
+Allergic Rhinitis,Yes,Yes,Yes,No,45,male,2,1,Positive,-0.101312476,0.971698463,-0.576776779,Low,1180,meena,Dr.suresh,dermatology,29-04-2027
+Anxiety Disorders,Yes,Yes,Yes,No,45,male,2,1,Positive,-0.101312476,0.971698463,-0.576776779,Medium,1181,karthik,Dr.arun,neurology,30-04-2027
+Asthma,Yes,Yes,No,Yes,45,male,1,1,Positive,-0.101312476,-0.723915355,-0.576776779,Medium,1182,divya,Dr.priya,padiatrics,01-05-2027
+Asthma,Yes,Yes,No,Yes,45,male,1,1,Positive,-0.101312476,-0.723915355,-0.576776779,Medium,1183,naveen,Dr.meena,orthopedics,02-05-2027
+Cataracts,No,No,Yes,No,45,female,1,2,Positive,-0.101312476,-0.723915355,0.948186068,Medium,1184,anitha,Dr.kumar,general medicine,03-05-2027
+Crohn's Disease,No,No,Yes,No,45,female,2,2,Positive,-0.101312476,0.971698463,0.948186068,Medium,1185,suresh,Dr.suresh,general medicine,04-05-2027
+Crohn's Disease,Yes,Yes,Yes,No,45,female,2,2,Positive,-0.101312476,0.971698463,0.948186068,Medium,1186,kavya,Dr.arun,cardiology,05-05-2027
+Depression,No,No,Yes,No,45,female,2,2,Positive,-0.101312476,0.971698463,0.948186068,Medium,1187,arun kumar,Dr.priya,dermatology,06-05-2027
+Diabetes,Yes,No,Yes,No,45,female,2,2,Positive,-0.101312476,0.971698463,0.948186068,Medium,1188,priya,Dr.meena,neurology,07-05-2027
+Diabetes,No,Yes,Yes,No,45,male,1,2,Positive,-0.101312476,-0.723915355,0.948186068,Medium,1189,rahul,Dr.kumar,padiatrics,08-05-2027
+Hypertension,Yes,No,Yes,No,45,male,1,2,Positive,-0.101312476,-0.723915355,0.948186068,Medium,1190,meena,Dr.suresh,orthopedics,09-05-2027
+Hypothyroidism,No,No,Yes,No,45,female,2,2,Positive,-0.101312476,0.971698463,0.948186068,Medium,1191,karthik,Dr.arun,general medicine,10-05-2027
+Liver Disease,Yes,Yes,Yes,No,45,female,1,2,Positive,-0.101312476,-0.723915355,0.948186068,High,1192,divya,Dr.priya,general medicine,11-05-2027
+Multiple Sclerosis,Yes,No,No,No,45,female,2,2,Positive,-0.101312476,0.971698463,0.948186068,Medium,1193,naveen,Dr.meena,cardiology,12-05-2027
+Multiple Sclerosis,Yes,No,No,No,45,female,2,2,Positive,-0.101312476,0.971698463,0.948186068,Medium,1194,anitha,Dr.kumar,dermatology,13-05-2027
+Osteoarthritis,Yes,No,Yes,Yes,45,male,2,1,Positive,-0.101312476,0.971698463,-0.576776779,Medium,1195,suresh,Dr.suresh,neurology,14-05-2027
+Osteoporosis,Yes,Yes,Yes,No,45,female,1,2,Positive,-0.101312476,-0.723915355,0.948186068,Medium,1196,kavya,Dr.arun,padiatrics,15-05-2027
+Pneumocystis Pneumonia (PCP),Yes,Yes,Yes,No,45,female,2,2,Positive,-0.101312476,0.971698463,0.948186068,High,1197,arun kumar,Dr.priya,orthopedics,16-05-2027
+Pneumonia,Yes,Yes,Yes,Yes,45,male,2,2,Positive,-0.101312476,0.971698463,0.948186068,Low,1198,priya,Dr.meena,general medicine,17-05-2027
+Scoliosis,No,No,No,No,45,female,2,2,Positive,-0.101312476,0.971698463,0.948186068,Medium,1199,rahul,Dr.kumar,general medicine,18-05-2027
+Sickle Cell Anemia,No,No,Yes,No,45,female,1,1,Positive,-0.101312476,-0.723915355,-0.576776779,High,1200,meena,Dr.suresh,cardiology,19-05-2027
+Tetanus,No,No,Yes,No,45,male,1,2,Positive,-0.101312476,-0.723915355,0.948186068,Medium,1201,karthik,Dr.arun,dermatology,20-05-2027
+Tetanus,No,No,Yes,No,45,male,1,2,Positive,-0.101312476,-0.723915355,0.948186068,Medium,1202,divya,Dr.priya,neurology,21-05-2027
+Hypertension,No,No,No,No,48,female,0,2,Negative,0.128285279,-2.419529174,0.948186068,Medium,1203,naveen,Dr.meena,padiatrics,22-05-2027
+Hypothyroidism,No,No,Yes,No,48,male,1,2,Negative,0.128285279,-0.723915355,0.948186068,Medium,1204,anitha,Dr.kumar,orthopedics,23-05-2027
+Hypothyroidism,No,No,Yes,No,48,male,1,2,Negative,0.128285279,-0.723915355,0.948186068,Medium,1205,suresh,Dr.suresh,general medicine,24-05-2027
+Allergic Rhinitis,Yes,No,No,No,50,male,2,2,Negative,0.281350448,0.971698463,0.948186068,Low,1206,kavya,Dr.arun,general medicine,25-05-2027
+Anemia,No,No,Yes,No,50,male,1,1,Negative,0.281350448,-0.723915355,-0.576776779,Medium,1207,arun kumar,Dr.priya,cardiology,26-05-2027
+Anxiety Disorders,No,No,Yes,No,50,male,1,1,Negative,0.281350448,-0.723915355,-0.576776779,Medium,1208,priya,Dr.meena,dermatology,27-05-2027
+Cholera,Yes,No,Yes,Yes,50,female,2,2,Negative,0.281350448,0.971698463,0.948186068,Low,1209,rahul,Dr.kumar,neurology,28-05-2027
+Cholera,Yes,No,Yes,Yes,50,female,2,2,Negative,0.281350448,0.971698463,0.948186068,Low,1210,meena,Dr.suresh,padiatrics,29-05-2027
+Crohn's Disease,Yes,Yes,Yes,No,50,male,1,2,Negative,0.281350448,-0.723915355,0.948186068,Medium,1211,karthik,Dr.arun,orthopedics,30-05-2027
+Crohn's Disease,No,No,Yes,No,50,male,1,2,Negative,0.281350448,-0.723915355,0.948186068,Medium,1212,divya,Dr.priya,general medicine,31-05-2027
+Depression,No,Yes,Yes,No,50,female,0,0,Negative,0.281350448,-2.419529174,-2.101739626,Medium,1213,naveen,Dr.meena,general medicine,01-06-2027
+Diabetes,No,Yes,No,No,50,male,1,2,Negative,0.281350448,-0.723915355,0.948186068,Medium,1214,anitha,Dr.kumar,cardiology,02-06-2027
+Endometriosis,Yes,No,No,No,50,male,2,1,Negative,0.281350448,0.971698463,-0.576776779,Medium,1215,suresh,Dr.suresh,dermatology,03-06-2027
+Hypertension,No,Yes,No,No,50,female,1,0,Negative,0.281350448,-0.723915355,-2.101739626,Medium,1216,kavya,Dr.arun,neurology,04-06-2027
+Hypothyroidism,Yes,Yes,Yes,No,50,male,1,2,Negative,0.281350448,-0.723915355,0.948186068,Medium,1217,arun kumar,Dr.priya,padiatrics,05-06-2027
+Kidney Cancer,No,Yes,No,No,50,male,0,2,Negative,0.281350448,-2.419529174,0.948186068,High,1218,priya,Dr.meena,orthopedics,06-06-2027
+Kidney Disease,No,Yes,No,Yes,50,male,1,1,Negative,0.281350448,-0.723915355,-0.576776779,High,1219,rahul,Dr.kumar,general medicine,07-06-2027
+Pancreatitis,No,Yes,No,No,50,male,0,2,Negative,0.281350448,-2.419529174,0.948186068,High,1220,meena,Dr.suresh,general medicine,08-06-2027
+Rheumatoid Arthritis,No,Yes,No,No,50,female,0,1,Negative,0.281350448,-2.419529174,-0.576776779,Medium,1221,karthik,Dr.arun,cardiology,09-06-2027
+Sepsis,Yes,Yes,Yes,No,50,male,1,1,Negative,0.281350448,-0.723915355,-0.576776779,High,1222,divya,Dr.priya,dermatology,10-06-2027
+Sleep Apnea,Yes,No,Yes,Yes,50,male,2,2,Negative,0.281350448,0.971698463,0.948186068,Medium,1223,naveen,Dr.meena,neurology,11-06-2027
+Urinary Tract Infection,Yes,Yes,No,Yes,50,male,2,1,Negative,0.281350448,0.971698463,-0.576776779,Low,1224,anitha,Dr.kumar,padiatrics,12-06-2027
+Asthma,Yes,Yes,Yes,Yes,50,female,1,2,Positive,0.281350448,-0.723915355,0.948186068,Medium,1225,suresh,Dr.suresh,orthopedics,13-06-2027
+Bronchitis,Yes,Yes,Yes,Yes,50,male,2,2,Positive,0.281350448,0.971698463,0.948186068,Low,1226,kavya,Dr.arun,general medicine,14-06-2027
+Down Syndrome,No,No,Yes,No,50,female,2,2,Positive,0.281350448,0.971698463,0.948186068,Medium,1227,arun kumar,Dr.priya,general medicine,15-06-2027
+Ebola Virus,Yes,Yes,Yes,Yes,50,male,1,1,Positive,0.281350448,-0.723915355,-0.576776779,High,1228,priya,Dr.priya,cardiology,16-06-2027
+Ebola Virus,Yes,Yes,Yes,Yes,50,male,1,1,Positive,0.281350448,-0.723915355,-0.576776779,High,1229,rahul,Dr.meena,dermatology,17-06-2027
+Eczema,No,Yes,No,No,50,female,2,2,Positive,0.281350448,0.971698463,0.948186068,Medium,1230,meena,Dr.kumar,neurology,18-06-2027
+Gastroenteritis,Yes,Yes,Yes,Yes,50,female,2,1,Positive,0.281350448,0.971698463,-0.576776779,Medium,1231,karthik,Dr.suresh,padiatrics,19-06-2027
+Klinefelter Syndrome,No,No,Yes,No,50,female,1,1,Positive,0.281350448,-0.723915355,-0.576776779,Medium,1232,divya,Dr.arun,orthopedics,20-06-2027
+Liver Cancer,No,Yes,Yes,Yes,50,male,2,2,Positive,0.281350448,0.971698463,0.948186068,High,1233,naveen,Dr.priya,general medicine,21-06-2027
+Lyme Disease,Yes,No,No,No,50,male,1,2,Positive,0.281350448,-0.723915355,0.948186068,Medium,1234,anitha,Dr.meena,general medicine,22-06-2027
+Lyme Disease,Yes,No,No,No,50,male,1,2,Positive,0.281350448,-0.723915355,0.948186068,Medium,1235,arun kumar,Dr.kumar,cardiology,23-06-2027
+Pancreatic Cancer,No,No,Yes,No,50,female,2,2,Positive,0.281350448,0.971698463,0.948186068,High,1236,priya,Dr.suresh,dermatology,24-06-2027
+Pneumothorax,No,No,Yes,Yes,50,female,2,2,Positive,0.281350448,0.971698463,0.948186068,Medium,1237,rahul,Dr.arun,neurology,25-06-2027
+Stroke,No,Yes,Yes,Yes,50,male,2,2,Positive,0.281350448,0.971698463,0.948186068,High,1238,meena,Dr.priya,padiatrics,26-06-2027
+Ulcerative Colitis,No,Yes,Yes,No,50,female,1,2,Positive,0.281350448,-0.723915355,0.948186068,Medium,1239,karthik,Dr.priya,orthopedics,27-06-2027
+Hypertension,Yes,Yes,No,No,52,male,1,0,Negative,0.434415618,-0.723915355,-2.101739626,Medium,1240,divya,Dr.meena,general medicine,28-06-2027
+Multiple Sclerosis,No,Yes,Yes,No,52,male,1,1,Negative,0.434415618,-0.723915355,-0.576776779,Medium,1241,naveen,Dr.kumar,general medicine,29-06-2027
+Multiple Sclerosis,No,Yes,Yes,No,52,male,1,1,Negative,0.434415618,-0.723915355,-0.576776779,Medium,1242,anitha,Dr.suresh,cardiology,30-06-2027
+Appendicitis,Yes,No,Yes,No,55,male,1,1,Negative,0.664013373,-0.723915355,-0.576776779,Low,1243,suresh,Dr.arun,dermatology,01-07-2027
+Bronchitis,No,No,Yes,Yes,55,male,2,2,Negative,0.664013373,0.971698463,0.948186068,Low,1244,kavya,Dr.priya,neurology,02-07-2027
+Bronchitis,Yes,Yes,Yes,Yes,55,male,2,1,Negative,0.664013373,0.971698463,-0.576776779,Low,1245,arun kumar,Dr.meena,padiatrics,03-07-2027
+Common Cold,Yes,No,Yes,Yes,55,male,1,0,Negative,0.664013373,-0.723915355,-2.101739626,Low,1246,priya,Dr.kumar,orthopedics,04-07-2027
+Diabetes,No,Yes,No,No,55,female,1,2,Negative,0.664013373,-0.723915355,0.948186068,Medium,1247,rahul,Dr.suresh,general medicine,05-07-2027
+Esophageal Cancer,No,No,Yes,No,55,male,1,1,Negative,0.664013373,-0.723915355,-0.576776779,Medium,1248,meena,Dr.arun,general medicine,06-07-2027
+HIV/AIDS,Yes,No,No,No,55,female,2,2,Negative,0.664013373,0.971698463,0.948186068,High,1249,karthik,Dr.priya,cardiology,07-07-2027
+HIV/AIDS,Yes,No,No,No,55,female,2,2,Negative,0.664013373,0.971698463,0.948186068,High,1250,divya,Dr.priya,dermatology,08-07-2027
+Hypertension,No,Yes,No,No,55,female,1,0,Negative,0.664013373,-0.723915355,-2.101739626,Medium,1251,naveen,Dr.meena,neurology,09-07-2027
+Liver Disease,No,Yes,Yes,No,55,male,2,0,Negative,0.664013373,0.971698463,-2.101739626,High,1252,anitha,Dr.kumar,padiatrics,10-07-2027
+Marfan Syndrome,No,No,Yes,No,55,male,2,2,Negative,0.664013373,0.971698463,0.948186068,Medium,1253,suresh,Dr.suresh,orthopedics,11-07-2027
+Migraine,No,Yes,Yes,Yes,55,female,1,0,Negative,0.664013373,-0.723915355,-2.101739626,Medium,1254,kavya,Dr.arun,general medicine,12-07-2027
+Osteoporosis,No,No,Yes,No,55,male,2,1,Negative,0.664013373,0.971698463,-0.576776779,Medium,1255,arun kumar,Dr.priya,general medicine,13-07-2027
+Parkinson's Disease,No,No,Yes,No,55,female,1,0,Negative,0.664013373,-0.723915355,-2.101739626,High,1256,priya,Dr.meena,cardiology,14-07-2027
+Parkinson's Disease,No,No,Yes,No,55,female,1,0,Negative,0.664013373,-0.723915355,-2.101739626,High,1257,rahul,Dr.kumar,dermatology,15-07-2027
+Anxiety Disorders,Yes,Yes,No,No,55,female,1,0,Positive,0.664013373,-0.723915355,-2.101739626,Medium,1258,meena,Dr.suresh,neurology,16-07-2027
+Coronary Artery Disease,No,No,Yes,No,55,female,1,1,Positive,0.664013373,-0.723915355,-0.576776779,High,1259,karthik,Dr.arun,padiatrics,17-07-2027
+Coronary Artery Disease,No,No,Yes,No,55,female,1,1,Positive,0.664013373,-0.723915355,-0.576776779,High,1260,divya,Dr.priya,orthopedics,18-07-2027
+Hemorrhoids,No,No,No,No,55,female,2,2,Positive,0.664013373,0.971698463,0.948186068,Medium,1261,naveen,Dr.priya,general medicine,19-07-2027
+Hypertension,Yes,No,Yes,No,55,male,2,1,Positive,0.664013373,0.971698463,-0.576776779,Medium,1262,anitha,Dr.meena,general medicine,20-07-2027
+Hypothyroidism,No,No,Yes,No,55,female,2,2,Positive,0.664013373,0.971698463,0.948186068,Medium,1263,suresh,Dr.kumar,cardiology,21-07-2027
+Osteoarthritis,Yes,Yes,No,No,55,female,2,2,Positive,0.664013373,0.971698463,0.948186068,Medium,1264,kavya,Dr.suresh,dermatology,22-07-2027
+Osteoporosis,Yes,No,Yes,Yes,55,male,2,0,Positive,0.664013373,0.971698463,-2.101739626,Medium,1265,arun kumar,Dr.arun,neurology,23-07-2027
+Osteoporosis,No,Yes,Yes,No,55,female,1,1,Positive,0.664013373,-0.723915355,-0.576776779,Medium,1266,priya,Dr.priya,padiatrics,24-07-2027
+Osteoporosis,Yes,No,Yes,No,55,female,1,1,Positive,0.664013373,-0.723915355,-0.576776779,Medium,1267,rahul,Dr.meena,orthopedics,25-07-2027
+Osteoporosis,Yes,No,Yes,No,55,female,1,1,Positive,0.664013373,-0.723915355,-0.576776779,Medium,1268,meena,Dr.kumar,general medicine,26-07-2027
+Polycystic Ovary Syndrome (PCOS),Yes,Yes,No,No,55,female,1,1,Positive,0.664013373,-0.723915355,-0.576776779,Medium,1269,karthik,Dr.suresh,general medicine,27-07-2027
+Systemic Lupus Erythematosus...,No,Yes,Yes,No,55,female,2,2,Positive,0.664013373,0.971698463,0.948186068,Medium,1270,divya,Dr.arun,cardiology,28-07-2027
+Typhoid Fever,No,Yes,No,No,55,male,1,0,Positive,0.664013373,-0.723915355,-2.101739626,Medium,1271,naveen,Dr.priya,dermatology,29-07-2027
+Typhoid Fever,No,Yes,No,No,55,male,1,0,Positive,0.664013373,-0.723915355,-2.101739626,Medium,1272,anitha,Dr.priya,neurology,30-07-2027
+Influenza,Yes,Yes,Yes,Yes,56,male,2,2,Positive,0.740545958,0.971698463,0.948186068,Low,1273,suresh,Dr.meena,padiatrics,31-07-2027
+Pneumonia,Yes,Yes,No,Yes,57,male,1,2,Negative,0.817078543,-0.723915355,0.948186068,Low,1274,kavya,Dr.kumar,orthopedics,01-08-2027
+Breast Cancer,No,No,Yes,No,60,male,2,2,Negative,1.046676298,0.971698463,0.948186068,High,1275,arun kumar,Dr.suresh,general medicine,02-08-2027
+Coronary Artery Disease,Yes,Yes,No,No,60,male,2,2,Negative,1.046676298,0.971698463,0.948186068,High,1276,priya,Dr.arun,general medicine,03-08-2027
+Coronary Artery Disease,Yes,Yes,No,No,60,male,2,2,Negative,1.046676298,0.971698463,0.948186068,High,1277,rahul,Dr.priya,cardiology,04-08-2027
+Hyperthyroidism,No,No,Yes,No,60,male,1,1,Negative,1.046676298,-0.723915355,-0.576776779,Medium,1278,meena,Dr.meena,dermatology,05-08-2027
+Measles,Yes,Yes,No,No,60,female,2,1,Negative,1.046676298,0.971698463,-0.576776779,Low,1279,karthik,Dr.kumar,neurology,06-08-2027
+Measles,Yes,Yes,No,No,60,female,2,1,Negative,1.046676298,0.971698463,-0.576776779,Low,1280,divya,Dr.suresh,padiatrics,07-08-2027
+Osteoarthritis,No,Yes,No,Yes,60,female,1,1,Negative,1.046676298,-0.723915355,-0.576776779,Medium,1281,naveen,Dr.arun,orthopedics,08-08-2027
+Osteomyelitis,No,No,Yes,No,60,male,1,1,Negative,1.046676298,-0.723915355,-0.576776779,Medium,1282,anitha,Dr.priya,general medicine,09-08-2027
+Osteoporosis,Yes,No,No,No,60,male,2,2,Negative,1.046676298,0.971698463,0.948186068,Medium,1283,suresh,Dr.priya,general medicine,10-08-2027
+Osteoporosis,No,Yes,No,No,60,male,2,2,Negative,1.046676298,0.971698463,0.948186068,Medium,1284,kavya,Dr.meena,cardiology,11-08-2027
+Osteoporosis,No,Yes,No,No,60,male,2,2,Negative,1.046676298,0.971698463,0.948186068,Medium,1285,arun kumar,Dr.kumar,dermatology,12-08-2027
+Polio,Yes,Yes,Yes,No,60,male,1,1,Negative,1.046676298,-0.723915355,-0.576776779,Medium,1286,priya,Dr.suresh,neurology,13-08-2027
+Asthma,Yes,Yes,Yes,Yes,60,female,2,2,Positive,1.046676298,0.971698463,0.948186068,Medium,1287,rahul,Dr.arun,padiatrics,14-08-2027
+Chronic Kidney Disease,No,No,Yes,No,60,female,1,2,Positive,1.046676298,-0.723915355,0.948186068,High,1288,meena,Dr.priya,orthopedics,15-08-2027
+Hemophilia,No,No,Yes,No,60,female,1,1,Positive,1.046676298,-0.723915355,-0.576776779,High,1289,karthik,Dr.meena,general medicine,16-08-2027
+Hepatitis B,No,Yes,Yes,No,60,male,1,0,Positive,1.046676298,-0.723915355,-2.101739626,Medium,1290,divya,Dr.kumar,general medicine,17-08-2027
+Hepatitis B,No,Yes,Yes,No,60,male,1,0,Positive,1.046676298,-0.723915355,-2.101739626,Medium,1291,naveen,Dr.suresh,cardiology,18-08-2027
+Hypertension,No,No,Yes,No,60,female,2,1,Positive,1.046676298,0.971698463,-0.576776779,Medium,1292,anitha,Dr.arun,dermatology,19-08-2027
+Hypertension,Yes,No,Yes,No,60,male,2,1,Positive,1.046676298,0.971698463,-0.576776779,Medium,1293,suresh,Dr.priya,neurology,20-08-2027
+Hypertension,No,No,No,No,60,female,2,2,Positive,1.046676298,0.971698463,0.948186068,Medium,1294,kavya,Dr.priya,padiatrics,21-08-2027
+Kidney Cancer,Yes,Yes,Yes,No,60,female,2,1,Positive,1.046676298,0.971698463,-0.576776779,High,1295,arun kumar,Dr.meena,orthopedics,22-08-2027
+Kidney Disease,Yes,Yes,Yes,Yes,60,female,2,2,Positive,1.046676298,0.971698463,0.948186068,High,1296,priya,Dr.kumar,general medicine,23-08-2027
+Osteoporosis,Yes,No,Yes,No,60,male,2,1,Positive,1.046676298,0.971698463,-0.576776779,Medium,1297,rahul,Dr.suresh,general medicine,24-08-2027
+Pancreatitis,Yes,Yes,Yes,No,60,female,2,1,Positive,1.046676298,0.971698463,-0.576776779,High,1298,meena,Dr.arun,cardiology,25-08-2027
+Parkinson's Disease,Yes,Yes,No,No,60,male,2,1,Positive,1.046676298,0.971698463,-0.576776779,High,1299,karthik,Dr.priya,dermatology,26-08-2027
+Parkinson's Disease,Yes,Yes,No,No,60,male,2,1,Positive,1.046676298,0.971698463,-0.576776779,High,1300,divya,Dr.meena,neurology,27-08-2027
+Prader-Willi Syndrome,No,No,Yes,No,60,female,1,1,Positive,1.046676298,-0.723915355,-0.576776779,Medium,1301,naveen,Dr.kumar,padiatrics,28-08-2027
+Rheumatoid Arthritis,No,No,Yes,No,60,female,2,2,Positive,1.046676298,0.971698463,0.948186068,Medium,1302,anitha,Dr.suresh,orthopedics,29-08-2027
+Thyroid Cancer,No,No,Yes,No,60,female,2,2,Positive,1.046676298,0.971698463,0.948186068,High,1303,suresh,Dr.arun,general medicine,30-08-2027
+Tuberculosis,Yes,Yes,Yes,No,60,female,2,2,Positive,1.046676298,0.971698463,0.948186068,Medium,1304,kavya,Dr.priya,general medicine,31-08-2027
+Bladder Cancer,No,No,Yes,No,65,male,1,1,Negative,1.429339223,-0.723915355,-0.576776779,High,1305,arun kumar,Dr.priya,cardiology,01-09-2027
+Diabetes,No,No,Yes,No,65,male,1,2,Negative,1.429339223,-0.723915355,0.948186068,Medium,1306,priya,Dr.meena,dermatology,02-09-2027
+Otitis Media (Ear Infection),Yes,Yes,Yes,No,65,male,1,1,Negative,1.429339223,-0.723915355,-0.576776779,Low,1307,rahul,Dr.kumar,neurology,03-09-2027
+Stroke,Yes,No,Yes,No,65,female,2,0,Negative,1.429339223,0.971698463,-2.101739626,High,1308,meena,Dr.suresh,padiatrics,04-09-2027
+Stroke,Yes,No,Yes,No,65,female,2,0,Negative,1.429339223,0.971698463,-2.101739626,High,1309,karthik,Dr.arun,orthopedics,05-09-2027
+Tourette Syndrome,No,No,Yes,No,65,male,2,2,Negative,1.429339223,0.971698463,0.948186068,Medium,1310,divya,Dr.priya,general medicine,06-09-2027
+Urinary Tract Infection (UTI),Yes,No,Yes,No,65,male,2,1,Negative,1.429339223,0.971698463,-0.576776779,Medium,1311,naveen,Dr.meena,general medicine,07-09-2027
+Alzheimer's Disease,No,Yes,No,No,65,male,1,2,Positive,1.429339223,-0.723915355,0.948186068,High,1312,anitha,Dr.kumar,cardiology,08-09-2027
+Alzheimer's Disease,No,Yes,No,No,65,male,1,2,Positive,1.429339223,-0.723915355,0.948186068,High,1313,arun kumar,Dr.suresh,dermatology,09-09-2027
+Alzheimer's Disease,No,No,Yes,No,65,female,2,2,Positive,1.429339223,0.971698463,0.948186068,High,1314,priya,Dr.arun,neurology,10-09-2027
+Bronchitis,Yes,No,Yes,Yes,65,male,2,2,Positive,1.429339223,0.971698463,0.948186068,Low,1315,rahul,Dr.priya,padiatrics,11-09-2027
+Chronic Obstructive Pulmonary Disease (COPD),Yes,No,Yes,Yes,65,female,2,2,Positive,1.429339223,0.971698463,0.948186068,High,1316,meena,Dr.priya,orthopedics,12-09-2027
+Chronic Obstructive Pulmonary Disease (COPD),Yes,No,Yes,Yes,65,female,2,2,Positive,1.429339223,0.971698463,0.948186068,High,1317,karthik,Dr.meena,general medicine,13-09-2027
+Dementia,No,No,Yes,No,65,female,2,2,Positive,1.429339223,0.971698463,0.948186068,High,1318,divya,Dr.kumar,general medicine,14-09-2027
+Diabetes,Yes,Yes,Yes,No,65,female,1,2,Positive,1.429339223,-0.723915355,0.948186068,Medium,1319,naveen,Dr.suresh,cardiology,15-09-2027
+Diverticulitis,No,No,Yes,No,65,female,2,2,Positive,1.429339223,0.971698463,0.948186068,Medium,1320,anitha,Dr.arun,dermatology,16-09-2027
+Liver Cancer,Yes,Yes,Yes,No,65,female,2,2,Positive,1.429339223,0.971698463,0.948186068,High,1321,suresh,Dr.priya,neurology,17-09-2027
+Lung Cancer,Yes,Yes,Yes,No,65,female,2,2,Positive,1.429339223,0.971698463,0.948186068,High,1322,kavya,Dr.meena,padiatrics,18-09-2027
+Lung Cancer,Yes,No,Yes,No,65,female,1,2,Positive,1.429339223,-0.723915355,0.948186068,High,1323,arun kumar,Dr.kumar,orthopedics,19-09-2027
+Mumps,No,No,Yes,No,65,male,1,2,Positive,1.429339223,-0.723915355,0.948186068,Low,1324,priya,Dr.suresh,general medicine,20-09-2027
+Mumps,No,No,Yes,No,65,male,1,2,Positive,1.429339223,-0.723915355,0.948186068,Low,1325,rahul,Dr.arun,general medicine,21-09-2027
+Osteoporosis,No,Yes,Yes,No,65,female,2,2,Positive,1.429339223,0.971698463,0.948186068,Medium,1326,meena,Dr.priya,cardiology,22-09-2027
+Stroke,Yes,Yes,Yes,No,65,female,2,2,Positive,1.429339223,0.971698463,0.948186068,High,1327,karthik,Dr.priya,dermatology,23-09-2027
+Alzheimer's Disease,Yes,No,Yes,No,70,female,2,1,Negative,1.812002148,0.971698463,-0.576776779,High,1328,divya,Dr.meena,neurology,24-09-2027
+Alzheimer's Disease,Yes,No,Yes,No,70,female,2,1,Negative,1.812002148,0.971698463,-0.576776779,High,1329,naveen,Dr.kumar,padiatrics,25-09-2027
+Cholecystitis,No,No,Yes,No,70,male,1,1,Negative,1.812002148,-0.723915355,-0.576776779,Medium,1330,anitha,Dr.suresh,orthopedics,26-09-2027
+Chronic Obstructive Pulmonary Disease (COPD),No,Yes,Yes,Yes,70,male,1,2,Negative,1.812002148,-0.723915355,0.948186068,High,1331,suresh,Dr.arun,general medicine,27-09-2027
+Chronic Obstructive Pulmonary Disease (COPD),No,Yes,Yes,Yes,70,male,1,2,Negative,1.812002148,-0.723915355,0.948186068,High,1332,kavya,Dr.priya,general medicine,28-09-2027
+Osteoporosis,Yes,No,No,No,70,male,1,1,Negative,1.812002148,-0.723915355,-0.576776779,Medium,1333,arun kumar,Dr.meena,cardiology,29-09-2027
+Parkinson's Disease,No,No,Yes,No,70,male,1,1,Negative,1.812002148,-0.723915355,-0.576776779,High,1334,priya,Dr.kumar,dermatology,30-09-2027
+Prostate Cancer,Yes,Yes,No,No,70,male,2,1,Negative,1.812002148,0.971698463,-0.576776779,High,1335,rahul,Dr.suresh,neurology,01-10-2027
+Schizophrenia,No,Yes,Yes,No,70,male,1,1,Negative,1.812002148,-0.723915355,-0.576776779,Medium,1336,meena,Dr.arun,padiatrics,02-10-2027
+Gout,Yes,No,Yes,No,70,female,1,2,Positive,1.812002148,-0.723915355,0.948186068,Medium,1337,karthik,Dr.priya,orthopedics,03-10-2027
+Migraine,No,No,Yes,No,70,female,1,1,Positive,1.812002148,-0.723915355,-0.576776779,Medium,1338,divya,Dr.priya,general medicine,04-10-2027
+Stroke,No,Yes,No,No,70,male,1,2,Positive,1.812002148,-0.723915355,0.948186068,High,1339,naveen,Dr.meena,general medicine,05-10-2027
+Stroke,No,Yes,No,No,70,male,1,2,Positive,1.812002148,-0.723915355,0.948186068,High,1340,anitha,Dr.kumar,cardiology,06-10-2027
+Testicular Cancer,No,No,Yes,No,70,female,2,2,Positive,1.812002148,0.971698463,0.948186068,Medium,1341,suresh,Dr.suresh,dermatology,07-10-2027
+Tonsillitis,Yes,Yes,Yes,No,70,female,2,2,Positive,1.812002148,0.971698463,0.948186068,Low,1342,kavya,Dr.arun,neurology,08-10-2027
+Williams Syndrome,No,No,Yes,No,70,female,1,1,Positive,1.812002148,-0.723915355,-0.576776779,Medium,1343,arun kumar,Dr.priya,padiatrics,09-10-2027
+Stroke,Yes,No,Yes,No,80,female,2,2,Positive,2.577327997,0.971698463,0.948186068,High,1344,priya,Dr.meena,orthopedics,10-10-2027
+Stroke,Yes,No,Yes,No,80,female,2,2,Positive,2.577327997,0.971698463,0.948186068,High,1345,rahul,Dr.kumar,general medicine,11-10-2027
+Stroke,Yes,No,Yes,No,85,male,2,2,Positive,2.959990922,0.971698463,0.948186068,High,1346,meena,Dr.suresh,general medicine,12-10-2027
+Stroke,Yes,No,Yes,No,85,male,2,2,Positive,2.959990922,0.971698463,0.948186068,High,1347,karthik,Dr.arun,cardiology,13-10-2027
+Stroke,Yes,No,Yes,No,90,female,2,2,Positive,3.342653847,0.971698463,0.948186068,High,1348,divya,Dr.priya,dermatology,14-10-2027
+Stroke,Yes,No,Yes,No,90,female,2,2,Positive,3.342653847,0.971698463,0.948186068,High,1349,naveen,Dr.priya,neurology,15-10-2027
